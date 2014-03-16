@@ -1,0 +1,18 @@
+apply plugin: 'scala'
+
+repositories {
+
+    mavenCentral()
+
+}
+
+dependencies {
+
+    def scalaVersion = "2.10.3"
+    def majorScalaVersion = "2.10"
+    compile "org.scala-lang:scala-library:$scalaVersion"
+
+    testCompile "org.scalacheck:scalacheck_$majorScalaVersion:1.11.3"
+
+
+}

@@ -1,0 +1,10 @@
+build
+classes
+.idea/dataSources.ids
+.idea/datasources.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/workspace.xml
+.gradle
+out
