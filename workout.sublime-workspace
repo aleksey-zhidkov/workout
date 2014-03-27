@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"canMoveThirdDisk"
+			],
+			[
+				"to",
+				"towers"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"d",
+				"diskIdx"
+			],
+			[
+				"User",
+				"UsersService"
+			],
+			[
+				"UsersSer",
+				"usersService"
+			],
+			[
+				"new",
+				"newEntry"
+			],
+			[
+				"su",
+				"substitute"
+			],
+			[
+				"sub",
+				"substitutedValue"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"sun",
+				"substitutionRegExp"
+			],
+			[
+				"load",
+				"loadProps"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/datasources/twitter/TwitterDS.scala",
+		"/home/azhidkov/Dropbox/personal/projects/workout/src/main/java/HanoiTowers.java",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/private.properties",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/build/tmp/integrTest/jar_extract_8795956441959176821_tmp",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/datasources/vk/VkDS.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/scala/myclouds/users/UsersServiceTest.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/datasources/twitter/TwitterAuth.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/datasources/twitter/TwitterAuthDao.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/users/UsersDao.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/users/UsersService.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/build.gradle",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/scala/myclouds/SystemPropertiesTest.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/scala/myclouds.config/SystemPropertiesTest.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/scala/myclouds/config/SystemPropertiesTest.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/auth/Credentials.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/users/User.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/content_extraction/SystemProperties.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/resources/logback.xml",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/resources/test.properties",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/bootstrap/liftweb/Context.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/dev-db-connection.properties",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/props/default.props",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/props/production.default.props",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/prod-db-connection.properties",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/index/Indexer.scala",
+		"/home/azhidkov/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/test/scala/myclouds.config/test.properties",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/logback.xml",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/integr/scala/myclouds/users/UsersDaoIntegrTest.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/bootstrap/liftweb/Boot.scala",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/webapp/login.html",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/resources/rebel.xml",
+		"/home/azhidkov/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/azhidkov/.config/sublime-text-3/Packages/User/gradle.sublime-build",
+		"/home/azhidkov/Dropbox/personal/projects/MyClouds/src/main/scala/myclouds/snippet/OnSubmit.scala"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.prop",
+			"*.java",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"towel",
+			"MyClouds",
+			"twitter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tower"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "workout.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bui",
+				"build.gradle"
+			],
+			[
+				"bil",
+				"build.gradle"
+			],
+			[
+				"indexer",
+				"src/main/scala/myclouds/index/Indexer.scala"
+			],
+			[
+				"con",
+				"src/main/scala/bootstrap/liftweb/Context.scala"
+			],
+			[
+				"build",
+				"build.gradle"
+			],
+			[
+				"test",
+				"src/integr/scala/myclouds/users/UsersDaoIntegrTest.scala"
+			],
+			[
+				"ons",
+				"src/main/scala/myclouds/snippet/OnSubmit.scala"
+			],
+			[
+				"login",
+				"src/main/webapp/login.html"
+			],
+			[
+				"boo",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			],
+			[
+				"context",
+				"src/main/scala/bootstrap/liftweb/Context.scala"
+			],
+			[
+				"boot",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			],
+			[
+				"boot.s",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
