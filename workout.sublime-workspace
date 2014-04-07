@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"add",
+				"addNodes"
+			],
+			[
 				"ca",
 				"canMoveThirdDisk"
 			],
@@ -59,6 +63,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/main/java/GraphPath.java",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Unix",
+				"name": "import java.util.*;"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -164,8 +177,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/GraphPath.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2044,
+								2044
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import java.util.*;",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 3.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
