@@ -4,16 +4,25 @@ public class SubSets {
 
     public static <T> Set<Set<T>> subsets(Set<T> set) {
 
-        Set<Set<T>> subsets = new HashSet<>();
-        subsets.add(set);
-
-        for (T entry: set) {
-            Set<T> subset = new HashSet<>(set);
-            subset.remove(entry);
-            subsets.addAll(subsets(subset));
+        if (set.size() == 0) {
+            return Collections.singleton(set);
         }
 
-        return subsets;
+        LinkedHashSet<T> tail = new LinkedHashSet<>(set);
+        Iterator<T> iterator = tail.iterator();
+        T e = iterator.next();
+        iterator.remove();
+
+        Set<Set<T>> subsets = subsets(tail);
+        Set<Set<T>> res = new HashSet<>();
+        for (Set<T> subset: subsets) {
+            res.add(subset);
+            HashSet<T> subset2 = new HashSet<>(subset);
+            subset2.add(e);
+            res.add(subset2);
+        }
+
+        return res;
     }
 
     public static void main(String[] args) {
