@@ -8,5 +8,7 @@ classes
 .idea/workspace.xml
 .gradle
 out
+*.out
+*_gen*
 
 workout.sublime-workspace

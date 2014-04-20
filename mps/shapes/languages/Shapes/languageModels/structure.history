@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="guko" modelUID="r:01c6f6a2-c0bc-43a8-82be-3b4fa1c7dc8d(Shapes.structure)" version="-1" />
+    </dependencies>
+    <rename id="guko.742357781107402410" type="CHILD" from="child" to="shapes" />
+  </StructureModification>
+</history>
+
